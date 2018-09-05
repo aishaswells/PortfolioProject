@@ -1,0 +1,51 @@
+/* CSS used here will be applied after bootstrap.css */
+
+@charset "UTF-8"; 
+/*CSS Document for My Portfolio Page*/
+
+h1 { 
+	color: #2d3c49; 
+  	float: right; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	color:#7d97ad;
+  	float: right;
+  	font-size: 20px;
+  	font-family: 'Montserrat', sans-serif;
+  	
+}
+
+h4 {
+	color:#7d97ad;
+  	font-family: 'Montserrat', sans-serif;
+
+}
+
+h5 {
+	color:#7d97ad; 
+  	font-family: 'Montserrat', sans-serif;
+  	font-style: italic; 
+}
+
+h6 { 
+   color:#7d97ad;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px; 
+}
+
+hr {
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color:#7d97ad; 
+    padding-top:20px;
+  
+  }
+
+.featured {
+	padding-top:20px; 
+}
+
+
+
